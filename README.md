@@ -14,11 +14,12 @@ Navigation simple :
 ### Page d'accueil
 ## Captures d'écran
 
-### Page d'accueil
-![Page d'accueil](screenshots/1.PNG)
+(screenshots/3.PNG)
+![Page d'accueil](screenshots/page1.PNG)
 
 
-### Design
+
+
 ![Design](screenshots/2.PNG)
 
 
