@@ -12,8 +12,14 @@ Navigation simple :
   ## Captures d'écran
 
 ### Page d'accueil
-creenshots/1.png
+## Captures d'écran
 
-### Design du site
-screenshots/2.png
+### Page d'accueil
+![Page d'accueil](screenshots/1.PNG)
+
+
+### Design
+![Design](screenshots/2.PNG)
+
+
 
