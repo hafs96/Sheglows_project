@@ -12,7 +12,7 @@ Navigation simple :
   ## Captures d'écran
 
 ### Page d'accueil
-![Capture 1](screenshots/1.png)
+creenshots/1.png
 
 ### Design du site
 ![Capture 2](screenshots/2.png)
