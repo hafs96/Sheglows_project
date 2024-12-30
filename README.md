@@ -8,3 +8,12 @@ Design minimaliste et professionnel :
   Un design épuré mettant en avant le contenu grâce à l'utilisation stratégique de HTML et CSS.
 Navigation simple :
   Structure intuitive avec une barre de navigation permettant d'explorer différentes sections du site.
+
+  ## Captures d'écran
+
+### Page d'accueil
+![Capture 1](screenshots/1.png)
+
+### Design du site
+![Capture 2](screenshots/2.png)
+
