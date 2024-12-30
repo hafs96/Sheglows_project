@@ -15,5 +15,5 @@ Navigation simple :
 creenshots/1.png
 
 ### Design du site
-![Capture 2](screenshots/2.png)
+screenshots/2.png
 
